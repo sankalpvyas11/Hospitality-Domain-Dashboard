@@ -31,6 +31,6 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Revenue can be increased by 29% and occupancy rates can also be enhanced. Take advantage of late bookings and additional days of stay to increase revenue.
 - The Occupancy Percentage is the most on Weekends
 - Maximum bookings are done through Others and makeyourtrip platform
-- The Average rating is between 3.65 and 3.6
+- The Average rating is between 3.6 and 3.65
 - Delhi has the highest average rating from customers.
 - During June, there is a massive fall in the occupancy rates for Mumbai and Hyderabad.
